@@ -8,5 +8,3 @@ except ZeroDivisionError as err:
     print("Please enter valid values.", err)
 else:
     print("Both values were valid.")
-finally:
-    print("Finally!")
